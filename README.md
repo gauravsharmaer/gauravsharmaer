@@ -1,16 +1,89 @@
-## Hi there 👋
+# 👋 Hi, I'm Gaurav Sharma
 
-<!--
-**gauravsharmaer/gauravsharmaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gaurav-sharma-5b0a76369/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/gauravsharmaer)
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack Developer passionate about building impactful AI-powered platforms and scalable web applications. I specialize in architecting enterprise solutions that automate workflows, elevate user experience, and integrate advanced Generative AI capabilities.
+
+- 🏢 **Current Role:** Full Stack Developer at [Hirevize](https://hirevize.com) (AI Product Company)
+- 🤖 **Recent Project:** Architected and shipped an AI-powered product for automated interviews and candidate shortlisting, revolutionizing talent acquisition for global clients.
+- 🧑‍💻 **Tech Stack:** React, Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, AWS, LangChain, LangGraph, Huggingface, Generative AI tools
+- 🏆 **Achievements:** Awarded "Best Performer" for reducing requirement cycles by 40% and consistently delivering ahead of schedule
+
+---
+
+## ⚡ Technical Skills
+
+**Languages:** Java, Python, JavaScript, TypeScript  
+**Frontend:** ReactJS, NextJS, Tailwind CSS, Material UI, Shadcn, Redux Toolkit, Formik  
+**Backend:** NodeJS, ExpressJS, MongoDB, PostgreSQL, JWT, Nodemailer, Winston Logger  
+**AI & Generative AI:** LangChain, LangGraph, Huggingface, RAG, Vector DB, AWS Bedrock, Langfuse, Langsmith, DeepGram, ElevenLabs  
+**Cloud & DevOps:** AWS Lambda, AWS S3, AWS CloudWatch, Vercel  
+**Testing & Monitoring:** Vitest, React Testing Library, Playwright, Microsoft Clarity, Sentry  
+**Other Tools:** Postman, ThunderClient, Git & GitHub, Clerk, TenStackQuery, zustand
+
+---
+
+## 💼 Professional Experience
+
+### **Hirevize (AI Product Company)**
+#### AI-Powered Interview & Candidate Shortlisting Platform
+- Designed and developed an AI-driven solution that automates candidate interviews and shortlisting, enhancing recruitment efficiency and accuracy for global clients
+- Technologies: React, Node.js, TypeScript, PostgreSQL, XANO, Cloudinary, AUTH0, ChargeBee, Chain of thoughts Prompting
+
+### **Yanthraa Information Systems**
+#### BART Railways AI-Powered Employee Assistant Platform (Full Stack Lead)
+- Architected an AI assistant for 60,000+ BART employees, automating tickets, password management, and system queries
+- Designed a security system with facial recognition, OneLogin SSO, and OTP authentication (99.9% reliability)
+- Developed AI avatar interface (Gooey AI API, Web Speech API) for accessibility
+- Engineered seamless Salesforce integration and built voice chatbots (AWS Bedrock) with 3s response time
+
+#### InPharmD Healthcare Platform (Frontend Lead)
+- Built a real-time healthcare platform for 1000+ professionals (99.9% reliability)
+- Implemented robust form validation (Formik, TypeScript), reducing errors by 60%
+- Optimized app performance (Microsoft Clarity, Sentry)
+
+#### JIRA Ticket Automator
+- Architected an AI-powered Jira management platform with voice-enabled chat, real-time speech-to-text, and automation
+- Built LangGraph-based AI agent architecture (GPT-4.1, 25+ custom Jira API tools)
+- Integrated Auth0 authentication and MongoDB for conversation persistence
+
+---
+
+## 🛠️ Featured Projects
+
+- [Advocate](https://github.com/gauravsharmaer/Advocate)  
+- [Automator](https://github.com/gauravsharmaer/Automator)  
+- [Open SWE](https://github.com/langchain-ai/open-swe)  
+- [SDE Screening Platform](https://github.com/canvasxai/sde-screening-gauravsharmaer)  
+- [WP Chat App](https://github.com/workashutosh/wpchatapp)  
+
+*Add a tagline or description for each project to highlight its impact!*
+
+---
+
+## 🎓 Education
+
+**B.Tech. in Computer Science & Engineering**  
+Indira Gandhi University (HR.), 2017 - 2021  
+CGPA: 7.3/10
+
+---
+
+## 🌟 Achievements
+
+- 🏅 **Best Performer:** Reduced requirement cycles by 40% and delivered projects ahead of schedule
+
+---
+
+## 📫 Let's Connect
+
+- **Email:** gauravsharma701998@gmail.com
+- **LinkedIn:** [gaurav-sharma-5b0a76369](https://www.linkedin.com/in/gaurav-sharma-5b0a76369/)
+- **GitHub:** [gauravsharmaer](https://github.com/gauravsharmaer)
+
+---
+
+*Always learning, always building. Let’s connect and create something amazing!*
