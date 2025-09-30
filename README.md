@@ -28,12 +28,12 @@ Full Stack Developer passionate about building impactful AI-powered platforms an
 
 ## 💼 Professional Experience
 
-### **Hirevize (AI Product Company)**
+### **Deliqt (AI Product Company)**
 #### AI-Powered Interview & Candidate Shortlisting Platform
 - Designed and developed an AI-driven solution that automates candidate interviews and shortlisting, enhancing recruitment efficiency and accuracy for global clients
 - Technologies: React, Node.js, TypeScript, PostgreSQL, XANO, Cloudinary, AUTH0, ChargeBee, Chain of thoughts Prompting
 
-### **Yanthraa Information Systems**
+### **Yanthraa Information Systems (YC-2021)**
 #### BART Railways AI-Powered Employee Assistant Platform (Full Stack Lead)
 - Architected an AI assistant for 60,000+ BART employees, automating tickets, password management, and system queries
 - Designed a security system with facial recognition, OneLogin SSO, and OTP authentication (99.9% reliability)
