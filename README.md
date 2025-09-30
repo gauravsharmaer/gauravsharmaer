@@ -7,7 +7,7 @@
 
 Full Stack Developer passionate about building impactful AI-powered platforms and scalable web applications. I specialize in architecting enterprise solutions that automate workflows, elevate user experience, and integrate advanced Generative AI capabilities.
 
-- 🏢 **Current Role:** Full Stack Developer at [Hirevize](https://hirevize.com) (AI Product Company)
+- 🏢 **Current Role:** Full Stack Developer at [deliqt](https://deliqt.com/hirevize-ai-powered-hiring-platform/) (AI Product Company)
 - 🤖 **Recent Project:** Architected and shipped an AI-powered product for automated interviews and candidate shortlisting, revolutionizing talent acquisition for global clients.
 - 🧑‍💻 **Tech Stack:** React, Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, AWS, LangChain, LangGraph, Huggingface, Generative AI tools
 - 🏆 **Achievements:** Awarded "Best Performer" for reducing requirement cycles by 40% and consistently delivering ahead of schedule
