@@ -10,7 +10,7 @@ Full Stack Developer passionate about building impactful AI-powered platforms an
 - 🏢 **Current Role:** Full Stack Developer at [deliqt](https://deliqt.com/hirevize-ai-powered-hiring-platform/) (AI Product Company)
 - 🤖 **Recent Project:** Architected and shipped an AI-powered product for automated interviews and candidate shortlisting, revolutionizing talent acquisition for global clients.
 - 🧑‍💻 **Tech Stack:** React, Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, AWS, LangChain, LangGraph, Huggingface, Generative AI tools
-- 🏆 **Achievements:** Awarded "Best Performer" for reducing requirement cycles by 40% and consistently delivering ahead of schedule
+- 🏆 **Achievements:** Awarded "Best Performer" for reducing requirement cycles and consistently delivering ahead of schedule
 
 ---
 
@@ -19,9 +19,9 @@ Full Stack Developer passionate about building impactful AI-powered platforms an
 **Languages:** Java, Python, JavaScript, TypeScript  
 **Frontend:** ReactJS, NextJS, Tailwind CSS, Material UI, Shadcn, Redux Toolkit, Formik  
 **Backend:** NodeJS, ExpressJS, MongoDB, PostgreSQL, JWT, Nodemailer, Winston Logger  
-**AI & Generative AI:** LangChain, LangGraph, Huggingface, RAG, Vector DB, AWS Bedrock, Langfuse, Langsmith, DeepGram, ElevenLabs  
+**AI & Generative AI:** LangChain, LangGraph, Huggingface, RAG, Vector DB, AWS Bedrock, Langfuse, Langsmith, DeepGram, ElevenLabs, Open AI Sdk 
 **Cloud & DevOps:** AWS Lambda, AWS S3, AWS CloudWatch, Vercel  
-**Testing & Monitoring:** Vitest, React Testing Library, Playwright, Microsoft Clarity, Sentry  
+**Testing & Monitoring:** Vitest, React Testing Library, Playwright, Microsoft Clarity, Sentry, cleverTap  
 **Other Tools:** Postman, ThunderClient, Git & GitHub, Clerk, TenStackQuery, zustand
 
 ---
@@ -41,8 +41,8 @@ Full Stack Developer passionate about building impactful AI-powered platforms an
 - Engineered seamless Salesforce integration and built voice chatbots (AWS Bedrock) with 3s response time
 
 #### InPharmD Healthcare Platform (Frontend Lead)
-- Built a real-time healthcare platform for 1000+ professionals (99.9% reliability)
-- Implemented robust form validation (Formik, TypeScript), reducing errors by 60%
+- Built a real-time healthcare platform for 1000+ professionals 
+- Implemented robust form validation (Formik, TypeScript),
 - Optimized app performance (Microsoft Clarity, Sentry)
 
 #### JIRA Ticket Automator
@@ -54,11 +54,10 @@ Full Stack Developer passionate about building impactful AI-powered platforms an
 
 ## 🛠️ Featured Projects
 
-- [Advocate](https://github.com/gauravsharmaer/Advocate)  
+- [Hirevize](https://app.hirevize.com/auth)  
 - [Automator](https://github.com/gauravsharmaer/Automator)  
-- [Open SWE](https://github.com/langchain-ai/open-swe)  
-- [SDE Screening Platform](https://github.com/canvasxai/sde-screening-gauravsharmaer)  
-- [WP Chat App](https://github.com/workashutosh/wpchatapp)  
+- [Inpharmd](https://staging.inpharmd.com/login)  
+
 
 *Add a tagline or description for each project to highlight its impact!*
 
@@ -74,7 +73,7 @@ CGPA: 7.3/10
 
 ## 🌟 Achievements
 
-- 🏅 **Best Performer:** Reduced requirement cycles by 40% and delivered projects ahead of schedule
+- 🏅 **Best Performer:** Reduced requirement cycles  and delivered projects ahead of schedule
 
 ---
 
