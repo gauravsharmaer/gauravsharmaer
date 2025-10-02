@@ -59,7 +59,6 @@ Full Stack Developer passionate about building impactful AI-powered platforms an
 - [Inpharmd](https://staging.inpharmd.com/login)  
 
 
-*Add a tagline or description for each project to highlight its impact!*
 
 ---
 
