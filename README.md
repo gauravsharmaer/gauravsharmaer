@@ -28,7 +28,7 @@ Full Stack Developer passionate about building impactful AI-powered platforms an
 
 ## 💼 Professional Experience
 
-### **Deliqt (AI Product Company)**
+### **Deliqt (AI Product Company-Paytm Backed)**
 #### AI-Powered Interview & Candidate Shortlisting Platform
 - Designed and developed an AI-driven solution that automates candidate interviews and shortlisting, enhancing recruitment efficiency and accuracy for global clients
 - Technologies: React, Node.js, TypeScript, PostgreSQL, XANO, Cloudinary, AUTH0, ChargeBee, Chain of thoughts Prompting
