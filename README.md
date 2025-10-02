@@ -19,7 +19,7 @@ Full Stack Developer passionate about building impactful AI-powered platforms an
 **Languages:** Java, Python, JavaScript, TypeScript  
 **Frontend:** ReactJS, NextJS, Tailwind CSS, Material UI, Shadcn, Redux Toolkit, Formik  
 **Backend:** NodeJS, ExpressJS, MongoDB, PostgreSQL, JWT, Nodemailer, Winston Logger  
-**AI & Generative AI:** LangChain, LangGraph, Huggingface, RAG, Vector DB, AWS Bedrock, Langfuse, Langsmith, DeepGram, ElevenLabs, Open AI Sdk 
+**AI & Generative AI:** LangChain, LangGraph, Huggingface, RAG, Vector DB, AWS Bedrock, Langfuse, Langsmith, DeepGram, ElevenLabs, Open AI Sdk
 **Cloud & DevOps:** AWS Lambda, AWS S3, AWS CloudWatch, Vercel  
 **Testing & Monitoring:** Vitest, React Testing Library, Playwright, Microsoft Clarity, Sentry, cleverTap  
 **Other Tools:** Postman, ThunderClient, Git & GitHub, Clerk, TenStackQuery, zustand
