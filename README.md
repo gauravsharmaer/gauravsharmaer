@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Gaurav Sharma
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-sharma-5b0a76369/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-sharma-569a7439b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauravsharmaer)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravsharma701998@gmail.com)
 
@@ -16,7 +16,7 @@
 
 Full Stack Developer & Generative AI Engineer with **3 years of experience** architecting scalable enterprise AI applications. I specialize in building **RAG (Retrieval-Augmented Generation) pipelines**, **LLM orchestration**, and **AI agents** that automate workflows and elevate user experiences for global enterprises.
 
-- 🏢 **Current Role:** Full Stack Developer (Gen AI Lead) at [**FabApps (Paytm Backed)**](https://deliqt.com/hirevize-ai-powered-hiring-platform/)
+- 🏢 **Current Role:** Full Stack Developer (Gen AI Lead) at [**FabApps (Paytm Backed)**](https://www.simplycue.com/)
 - 🤖 **Recent Project:** Architected **SAMADHAN** - an enterprise RAG system with 10 specialized LangChain agents
 - 🏆 **Previous:** Led Gen AI development at **Yanthraa Information Systems (YC-2021)**, building AI assistants for 60,000+ BART Railway employees
 - 🧑‍💻 **Tech Stack:** React, Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, AWS, LangChain, LangGraph, AWS Bedrock
@@ -126,7 +126,7 @@ Recognized for reducing requirement lifecycles and delivering projects ahead of 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-sharma-5b0a76369/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-sharma-569a7439b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauravsharmaer)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravsharma701998@gmail.com)
 
