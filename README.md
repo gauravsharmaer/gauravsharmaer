@@ -1,87 +1,89 @@
-# 👋 Hi, I'm Gaurav Sharma
+👋 Hi, I'm Gaurav Sharma
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gaurav-sharma-5b0a76369/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/gauravsharmaer)
+🚀 About Me
+Full Stack Developer & Generative AI Engineer with 3 years of experience architecting scalable enterprise AI applications. I specialize in building RAG (Retrieval-Augmented Generation) pipelines, LLM orchestration, and AI agents that automate workflows and elevate user experiences for global enterprises.
+​
 
-## 🚀 About Me
+🏢 Current Role: Full Stack Developer (Gen AI Lead) at FabApps (Paytm Backed)
 
-Full Stack Developer passionate about building impactful AI-powered platforms and scalable web applications. I specialize in architecting enterprise solutions that automate workflows, elevate user experience, and integrate advanced Generative AI capabilities.
+🤖 Recent Project: Architected SAMADHAN - an enterprise RAG system with 10 specialized LangChain agents, short/long-term memory, and voice input capabilities
 
-- 🏢 **Current Role:** Full Stack Developer at [deliqt](https://deliqt.com/hirevize-ai-powered-hiring-platform/) (AI Product Company)
-- 🤖 **Recent Project:** Architected and shipped an AI-powered product for automated interviews and candidate shortlisting, revolutionizing talent acquisition for global clients.
-- 🧑‍💻 **Tech Stack:** React, Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, AWS, LangChain, LangGraph, Huggingface, Generative AI tools
-- 🏆 **Achievements:** Awarded "Best Performer" for reducing requirement cycles and consistently delivering ahead of schedule
+🏆 Previous: Led Gen AI development at Yanthraa Information Systems (YC-2021), building AI assistants for 60,000+ BART Railway employees
 
----
+🧑‍💻 Tech Stack: React, Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, AWS, LangChain, LangGraph, AWS Bedrock
 
-## ⚡ Technical Skills
+⚡ Technical Skills
+Generative AI & LLMs: RAG Pipelines, LangChain, LangGraph, AI Agents, AWS Bedrock, OpenAI SDK, Hugging Face, DeepGram, ElevenLabs, HeyGen
+Frontend: React.js, Next.js, Redux Toolkit, Tailwind CSS, Material UI, Shadcn, TanStack Query, Formik
+Backend: Node.js, Express.js, REST APIs, Server-Sent Events (SSE), WebSockets, JWT, Nodemailer
+Databases: MongoDB, PostgreSQL, Redis, Pinecone (Vector DB)
+Cloud & DevOps: AWS (Lambda, S3, Cognito, Polly, CloudWatch), Docker, Vercel, Runpod, BullMQ
+Testing & Monitoring: Vitest, Playwright, Sentry, LangSmith, Microsoft Clarity, Winston Logger
+Other Tools: Postman, Auth0, Clerk, Uppy, Git & GitHub
 
-**Languages:** Java, Python, JavaScript, TypeScript  
-**Frontend:** ReactJS, NextJS, Tailwind CSS, Material UI, Shadcn, Redux Toolkit, Formik  
-**Backend:** NodeJS, ExpressJS, MongoDB, PostgreSQL, JWT, Nodemailer, Winston Logger  
-**AI & Generative AI:** LangChain, LangGraph, Huggingface, RAG, Vector DB, AWS Bedrock, Langfuse, Langsmith, DeepGram, ElevenLabs, Open AI Sdk
-**Cloud & DevOps:** AWS Lambda, AWS S3, AWS CloudWatch, Vercel  
-**Testing & Monitoring:** Vitest, React Testing Library, Playwright, Microsoft Clarity, Sentry, cleverTap  
-**Other Tools:** Postman, ThunderClient, Git & GitHub, Clerk, TenStackQuery, zustand
+💼 Professional Experience
+FabApps (Paytm Backed)
+SAMADHAN - Enterprise RAG System (Gen AI Lead) | May 2025 – Present
+Architected a secure document ingestion pipeline using AWS Cognito authentication and Uppy with Svar File Manager for multi-part S3 uploads
 
----
+Engineered asynchronous processing system with BullMQ workers for OCR, text chunking, and vector embeddings
 
-## 💼 Professional Experience
+Developed sophisticated LangChain system with 10 specialized agents featuring short/long-term memory and voice input for complex dataset querying
 
-### **Deliqt (AI Product Company-Paytm Backed)**
-#### AI-Powered Interview & Candidate Shortlisting Platform
-- Designed and developed an AI-driven solution that automates candidate interviews and shortlisting, enhancing recruitment efficiency and accuracy for global clients
-- Technologies: React, Node.js, TypeScript, PostgreSQL, XANO, Cloudinary, AUTH0, ChargeBee, Chain of thoughts Prompting
+Implemented real-time user updates using Server-Sent Events (SSE) and integrated GuardRails for enhanced data security
 
-### **Yanthraa Information Systems (YC-2021)**
-#### BART Railways AI-Powered Employee Assistant Platform (Full Stack Lead)
-- Architected an AI assistant for 60,000+ BART employees, automating tickets, password management, and system queries
-- Designed a security system with facial recognition, OneLogin SSO, and OTP authentication (99.9% reliability)
-- Developed AI avatar interface (Gooey AI API, Web Speech API) for accessibility
-- Engineered seamless Salesforce integration and built voice chatbots (AWS Bedrock) with 3s response time
+Hirevize - AI-Powered Interview & Candidate Shortlisting Platform
+Designed and developed an AI-driven solution automating candidate interviews and shortlisting, enhancing recruitment efficiency for global clients
 
-#### InPharmD Healthcare Platform (Frontend Lead)
-- Built a real-time healthcare platform for 1000+ professionals 
-- Implemented robust form validation (Formik, TypeScript),
-- Optimized app performance (Microsoft Clarity, Sentry)
+Technologies: React, Node.js, TypeScript, PostgreSQL, XANO, Cloudinary, AUTH0, ChargeBee
 
-#### JIRA Ticket Automator
-- Architected an AI-powered Jira management platform with voice-enabled chat, real-time speech-to-text, and automation
-- Built LangGraph-based AI agent architecture (GPT-4.1, 25+ custom Jira API tools)
-- Integrated Auth0 authentication and MongoDB for conversation persistence
+Yanthraa Information Systems (YC-2021)
+BART Railways AI-Powered Employee Assistant Platform (Gen AI Lead) | May 2023 – May 2025
+Architected an AI assistant serving 60,000+ BART employees, automating ticket management, password resets, and system queries
 
----
+Built high-performance AWS Bedrock voice bots achieving sub-3 second latency with 99.9% reliability
 
-## 🛠️ Featured Projects
+Developed AI avatar interface (Gooey AI API, Web Speech API) for enhanced accessibility
 
-- [Hirevize](https://app.hirevize.com/auth)  
-- [Automator](https://github.com/gauravsharmaer/Automator)  
-- [Inpharmd](https://staging.inpharmd.com/login)  
+Engineered multi-layer security system with Face-API.js, OneLogin SSO, and email OTP authentication
 
+Integrated Salesforce APIs for automated internal ticket management workflows
 
+InPharmD Healthcare Platform (Frontend Lead)
+Built real-time healthcare platform serving 1000+ medical professionals
 
----
+Implemented robust form validation with Formik and TypeScript
 
-## 🎓 Education
+Optimized app performance using Microsoft Clarity and Sentry monitoring
 
-**B.Tech. in Computer Science & Engineering**  
-Indira Gandhi University (HR.), 2017 - 2021  
+JIRA Ticket Automator
+Architected AI-powered Jira management platform with voice-enabled chat and real-time speech-to-text
+
+Built LangGraph-based AI agent architecture with GPT-4.1 and 25+ custom Jira API tools
+
+Integrated Auth0 authentication and MongoDB for conversation persistence
+
+🛠️ Featured Projects
+Hirevize - AI-powered recruitment platform
+
+Automator - JIRA automation with AI agents
+
+InPharmD - Healthcare platform for medical professionals
+
+🎓 Education
+B.Tech in Computer Science & Engineering
+Indira Gandhi University (Haryana), 2017 - 2021
 CGPA: 7.3/10
 
----
+🌟 Achievements
+🏅 Best Performer Award: Recognized for reducing requirement lifecycles and delivering projects ahead of schedule at Yanthraa Information Systems
 
-## 🌟 Achievements
+📫 Let's Connect
+Email: gauravsharma701998@gmail.com
 
-- 🏅 **Best Performer:** Reduced requirement cycles  and delivered projects ahead of schedule
+LinkedIn: gaurav-sharma-5b0a76369
 
----
+GitHub: gauravsharmaer
 
-## 📫 Let's Connect
+Always learning, always building. Let's connect and create something amazing!
 
-- **Email:** gauravsharma701998@gmail.com
-- **LinkedIn:** [gaurav-sharma-5b0a76369](https://www.linkedin.com/in/gaurav-sharma-5b0a76369/)
-- **GitHub:** [gauravsharmaer](https://github.com/gauravsharmaer)
-
----
-
-*Always learning, always building. Let’s connect and create something amazing!*
