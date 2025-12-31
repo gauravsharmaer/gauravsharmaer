@@ -120,19 +120,7 @@ MongoDB • PostgreSQL • Redis • Pinecone (Vector DB) • AWS (Lambda, S3, C
 🏅 **Best Performer Award**  
 Recognized for reducing requirement lifecycles and delivering projects ahead of schedule at Yanthraa Information Systems
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravsharmaer&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsharmaer&layout=compact&theme=radical)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
