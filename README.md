@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-Full Stack Engineer and Generative AI Specialist focused on building **intelligent systems, agentic workflows, and AI-driven enterprise platforms**. Over 3+ years, I've worked across the full AI and product stack — from architecting multi-agent RAG pipelines and real-time voice interfaces to shipping production full stack applications — with a strong focus on systems that are **fast, reliable, and solve real workflow problems at scale**.
+Full Stack Engineer and Generative AI Specialist focused on building **intelligent systems, agentic workflows, and AI-driven enterprise platforms**. Over 4 years, I've worked across the full AI and product stack — from architecting multi-agent RAG pipelines and real-time voice interfaces to shipping production full stack applications — with a strong focus on systems that are **fast, reliable, and solve real workflow problems at scale**.
 
 I've built enterprise RAG systems with 10 specialized LangChain agents, led AI assistant platforms serving **60,000+ BART Railway employees** with sub-3s latency and 99.9% reliability, and developed voice-controlled Jira automation with 25+ custom API tools powered by LangGraph. Currently at **FloQast**, I'm engineering a behavioral fingerprinting system that analyzes 24 months of transaction history to detect financial anomalies at enterprise scale.
 
